@@ -1,0 +1,6 @@
+If you think you are bad
+think:1
+bad:1
+are:1
+If:1
+you:2
